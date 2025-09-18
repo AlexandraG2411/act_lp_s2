@@ -3,7 +3,7 @@ package com.example;
 public class Ejercicio4 {
     public static void ejercicio4() {
         System.out.println("Ejercicio 4");
-        // tu código aquí
+        
         final double PI = 3.14159;
         final int DIAS_SEMANA = 7;
         final String NOMBRE_UNIVERSIDAD = "Cesde";

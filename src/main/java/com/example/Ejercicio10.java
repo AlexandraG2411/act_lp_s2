@@ -21,6 +21,5 @@ public class Ejercicio10 {
         System.out.println("IVA (" + IVA_PORCENTAJE + "%): $", iva);
         System.out.println("TOTAL A PAGAR: $" + total);
 
-
     }
 }
